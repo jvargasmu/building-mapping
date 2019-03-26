@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf8'?>
+	<gpx creator="Building mapping" version="1.1" xmlns="http://www.topografix.com/GPX/1/1">
+    <metadata>
+        <link href="https://github.com/jvargasmu/building-mapping">
+            <text>Building mapping</text>
+        </link>
+        <time>2018-11-24T01:47:58.186288</time>
+    </metadata>
+    <trk>
+        <name></name>
+        <trkseg>
+            <trkpt lat="-19.3506666545" lon="29.1673278809" />
+            <trkpt lat="-19.3506666545" lon="29.1680145264" />
+            <trkpt lat="-19.3513145218" lon="29.1680145264" />
+            <trkpt lat="-19.3513145218" lon="29.1673278809" />
+            <trkpt lat="-19.3506666545" lon="29.1673278809" />
+        </trkseg>
+    </trk>
+    <wpt lat="-19.3506666545" lon="29.1673278809" />
+    <wpt lat="-19.3506666545" lon="29.1680145264" />
+    <wpt lat="-19.3513145218" lon="29.1680145264" />
+    <wpt lat="-19.3513145218" lon="29.1673278809" />
+    <wpt lat="-19.3506666545" lon="29.1673278809" />
+	</gpx>
